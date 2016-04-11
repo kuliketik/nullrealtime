@@ -1,0 +1,28 @@
+{
+  "name": "realtime-apps",
+  "version": "1.0.0",
+  "description": "realtime-apps experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/null-id/nullrealtime.git"
+  },
+  "keywords": [
+    "realtime"
+  ],
+  "author": "vickydasta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-id/nullrealtime/issues"
+  },
+  "homepage": "https://github.com/null-id/nullrealtime#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.16",
+    "mongojs": "^2.3.0",
+    "socket.io": "^1.4.5"
+  }
+}
